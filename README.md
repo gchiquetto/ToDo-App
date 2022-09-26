@@ -17,10 +17,10 @@
 ## :stars: Screenshots
 
 <p float="left">
-    <img alt="ToDo App Empty List - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664216937/Readme-imgs/empty_tasks_psyhyl.png"             width="500"/>
-    <img alt="ToDo App List with one task - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664216937/Readme-imgs/tasks_xsarc5.png"           width="500" />
+    <img alt="ToDo App Empty List - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664216937/Readme-imgs/empty_tasks_psyhyl.png"             width="300"/>
+    <img alt="ToDo App List with one task - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664216937/Readme-imgs/tasks_xsarc5.png"           width="300" />
 </p>
 <p float="left">
-    <img alt="ToDo App Creating Task - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664217557/Readme-imgs/creating-task_arostr.png"           width="500"/>
-    <img alt="ToDo App Task Checked - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664217291/Readme-imgs/task-checked_nfw9ug.png"             width="500" />
+    <img alt="ToDo App Creating Task - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664217557/Readme-imgs/creating-task_arostr.png"           width="300"/>
+    <img alt="ToDo App Task Checked - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664217291/Readme-imgs/task-checked_nfw9ug.png"             width="300" />
 </p>
