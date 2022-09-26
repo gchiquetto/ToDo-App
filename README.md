@@ -3,3 +3,6 @@
     <br>
     ToDo App - RocketSeat React Challenge 01
 </h1>
+<h4 align="center">
+  A React ToDo List App made for the Rocketseat challenge 01</a>
+</h4>
