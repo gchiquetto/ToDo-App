@@ -1,0 +1,42 @@
+.taskListContainer .header{
+    display: flex;    
+    justify-content: space-between;
+    font-weight: var(--font-weight-bold);
+    margin-bottom: 1.5rem;
+}
+
+.taskListContainer .header div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.taskListContainer .header p{
+    display: inline;    
+}
+
+.taskHeaderLabel{
+    color: var(--blue);  
+}
+
+.doneHeaderLabel{
+    color: var(--purple);  
+}
+
+.taskListContainer .header span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--gray-400);
+    color: var(--gray-200);
+    border-radius: 100px;
+    padding: 2px .5rem;    
+}
+
+.taskList{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: .75rem;
+}

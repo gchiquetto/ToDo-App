@@ -1,0 +1,54 @@
+.taskContainer{
+    display: flex;
+    align-items: flex-start;
+    gap: .75rem;
+    width: 100%;   
+    background-color: var(--gray-400);
+    padding: 1rem;
+    border: 1px solid var(--gray-400);
+    border-radius: 8px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.06);
+    cursor: pointer;
+}
+
+.checkBtn{
+    cursor: pointer; 
+    color: var(--blue);
+    transition: color .1s ease;
+}
+
+.checkedIcon{
+    color: var(--purple-dark);
+}
+
+.checkedIcon:hover{
+    color: var(--purple);
+}
+
+.checkBtn:hover{
+    color: var(--blue-dark);   
+}
+
+.taskUnchecked{
+    line-height: var(--line-height);
+    color: var(--gray-100);
+}
+
+.taskChecked{
+    line-height: var(--line-height);
+    color: var(--gray-300);
+    text-decoration: line-through;
+}
+
+.deleteBtn{
+    cursor: pointer;
+    color: var(--gray-300);
+    margin-left: auto;  
+    transition: color .1s ease;     
+}
+
+.deleteBtn:hover{    
+    color: var(--danger);       
+}
+
+
