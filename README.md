@@ -16,5 +16,5 @@
 
 ## :stars: Screenshots
 
-<img alt="ToDo App Empty List - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664215113/Readme-imgs/empty_tasks_ngopil.png" />
+<img alt="ToDo App Empty List - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664215113/Readme-imgs/empty_tasks_ngopil.png" style={width:200px}/>
 <img alt="ToDo App List with one task - Github Repo" src="https://res.cloudinary.com/dxetg4hmh/image/upload/v1664216251/Readme-imgs/tasks_nllajo.png" />
