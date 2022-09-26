@@ -6,3 +6,10 @@
 <h4 align="center">
   A React ToDo List App made for the Rocketseat challenge 01</a>
 </h4>
+
+## :rocket: Technologies
+
+-  [React](https://github.com/facebook/react)
+-  [Vite](https://github.com/vitejs/vite)
+-  [Phosphor Icons](https://github.com/phosphor-icons/phosphor-home)
+-  [TypeScript](https://github.com/microsoft/TypeScript)
