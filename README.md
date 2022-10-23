@@ -14,6 +14,16 @@
 -  [Phosphor Icons](https://github.com/phosphor-icons/phosphor-home)
 -  [TypeScript](https://github.com/microsoft/TypeScript)
 
+
+## :sparkles: Features
+
+- Add a new task
+- Mark a task as finished
+- Unmark a task finished
+- Remove a task from the list
+- Show the progress (amount of tasks concluded vs total amount of tasks)
+
+
 ## :stars: Screenshots
 
 <p float="left" align="center">
